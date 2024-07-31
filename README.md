@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andr31154
+- 👋 Hi, I’m Andrei, a 1st year CS Student @ ```Polytechnic University of Bucharest```
 - 👀 I’m interested in Cyber Security, Embedded Systems, Machine Learning, AI,
      Data Structures, Functional Programming, Object Oriented Programming and much more
 
