@@ -3,12 +3,11 @@ I am a Computer Science and Engineering student from Bucharest, Romania.
 
 BIO
 
-- 🔭 I’m currently stu**dying** at University POLITEHNICA of Bucharest
-- ⚡ I’m currently learning programming languages: `C`, `C++`, `Python`, `Java`, `Haskell`, `Rust`
-- 💻 I’m looking forward to collaborate on **Open Source** projects
-- 💬 Ping me about memory allocation errors, SEGFAULTS and everything in between
-- 📫 How to reach me: andrei.rusanescu@stud.acs.upb.ro
-- 🌱 Fun fact: I am keen on climbing, running, hiking.
+- Currently studying at University POLITEHNICA of Bucharest
+- Actively learning programming languages: `C`, `C++`, `Python`, `Java`, `Haskell`, `Rust`
+- Looking forward to collaborate on **Open Source** projects
+- How to reach me: andrei.rusanescu@stud.acs.upb.ro
+- Fun fact: I am keen on climbing, running, hiking.
 
 LANGUAGES AND TOOLS
 
