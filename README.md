@@ -20,13 +20,13 @@ LANGUAGES AND TOOLS
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
-<!---STATS
+STATS
 
 <p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreirusanescu&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats-flame-ten-48.vercel.app/api?username=andreirusanescu&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreirusanescu&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>--->
+</p>
 
 <!---
 andreirusanescu/andreirusanescu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
