@@ -21,12 +21,14 @@ LANGUAGES AND TOOLS
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andreirusanescu&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 
 
 STATS
 
 <p>
-    <img alt = "[GitHub Stats" src="https://rusanescu-andrei-marian.vercel.app/api?username=andreirusanescu&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555](https://github-readme-stats-6egoxj64i-rusanescu-andrei-marians-projects.vercel.app/api?username=andreirusanescu&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&cache_seconds=86400">
+    <img alt = "GitHub Stats" src=https://github-readme-stats-andreirusanescu.vercel.app/api?username=andreirusanescu&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreirusanescu&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
