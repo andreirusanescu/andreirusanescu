@@ -4,7 +4,7 @@ I am a Computer Science and Engineering student from Bucharest, Romania.
 BIO
 
 - Currently studying at University POLITEHNICA of Bucharest
-- Actively learning programming languages: `C`, `C++`, `Python`, 'Java'
+- Actively learning programming languages: `C`, `C++`, `Python`, `Java`
 - Looking forward to collaborate on **Open Source** projects
 - How to reach me: andrei.rusanescu@stud.acs.upb.ro
 - Fun fact: I am keen on climbing, running, hiking.
