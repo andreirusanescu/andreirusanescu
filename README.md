@@ -22,7 +22,6 @@ LANGUAGES AND TOOLS
   
 </div>
 <br>
-<br>
 
 STATS
 <p>
